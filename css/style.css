@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+.from {
+    background-color: aqua;
+    width: 250px;
+    height: 250px;
+    margin: 5px auto;
+}
+
+.from__ {
+    display: flex;
+    justify-content: center;
+    height: 250px;
+}
+
+input {
+    width: 175px;
+    margin-top: 15px;
+    border-radius: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    width: 179px;
+    border-radius: 10%;
+}
